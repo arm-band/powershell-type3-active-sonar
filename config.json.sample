@@ -1,0 +1,7 @@
+{
+    "address": "192.2.0.1",
+    "resultOutput": {
+        "path": "result",
+        "baseFilename": "result"
+    }
+}
