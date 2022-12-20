@@ -9,13 +9,13 @@
 ファイルに出力される結果は以下のようなフォーマットになります。
 
 ```
-yyyy/MM/dd hh:ii:ss 192.2.0.1 に ping を送信しています 32 バイトのデータ:
-yyyy/MM/dd hh:ii:ss 192.2.0.1 からの応答: バイト数 =32 時間 =3ms TTL=128
-yyyy/MM/dd hh:ii:ss 192.2.0.1 からの応答: バイト数 =32 時間 =4ms TTL=128
-yyyy/MM/dd hh:ii:ss 192.2.0.1 からの応答: バイト数 =32 時間 =4ms TTL=128
-yyyy/MM/dd hh:ii:ss 192.2.0.1 からの応答: バイト数 =32 時間 =4ms TTL=128
-yyyy/MM/dd hh:ii:ss 192.2.0.1 からの応答: バイト数 =32 時間 =3ms TTL=128
-yyyy/MM/dd hh:ii:ss 192.2.0.1 からの応答: バイト数 =32 時間 =3ms TTL=128
+yyyy/MM/dd hh:ii:ss 192.0.2.1 に ping を送信しています 32 バイトのデータ:
+yyyy/MM/dd hh:ii:ss 192.0.2.1 からの応答: バイト数 =32 時間 =3ms TTL=128
+yyyy/MM/dd hh:ii:ss 192.0.2.1 からの応答: バイト数 =32 時間 =4ms TTL=128
+yyyy/MM/dd hh:ii:ss 192.0.2.1 からの応答: バイト数 =32 時間 =4ms TTL=128
+yyyy/MM/dd hh:ii:ss 192.0.2.1 からの応答: バイト数 =32 時間 =4ms TTL=128
+yyyy/MM/dd hh:ii:ss 192.0.2.1 からの応答: バイト数 =32 時間 =3ms TTL=128
+yyyy/MM/dd hh:ii:ss 192.0.2.1 からの応答: バイト数 =32 時間 =3ms TTL=128
 ```
 
 ## Usage
